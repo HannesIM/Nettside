@@ -1,0 +1,51 @@
+h1{
+    color: darkgreen;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 60px;
+    
+
+}
+body{
+    background-color: rgb(255, 255, 255);
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(225, 255, 255);
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 20px;
+
+   
+    
+}
+
+.headtitle{
+    width: 40%;
+    height: 40%;
+    margin-top: 20px;
+    text-align: center
+}
+.hoyre{
+    
+}
+.container{
+    width: 50%;
+    height: ;
+    background-color:  rgb(177, 214, 177);
+    margin-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    
+
+}
+.venstre{
+    
+}
+
+.bilde1{
+    text-align: center;
+}
+
+
